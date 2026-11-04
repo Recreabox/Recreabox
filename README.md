@@ -13,7 +13,7 @@
 
 ## 👋 Un peu de moi
 
-Je suis Enzo, fondateur de **Coelus**. Je fabrique des sites, j’automatise ce qui peut l’être, j’héberge moi-même tout ce que je peux et je passe mon temps à **casser les algorithmes** pour faire monter les pages dans Google. Ce que j’aime, c’est comprendre comment un outil marche, le tester, le casser, puis raconter ce que j’en ai retenu.
+Je suis Enzo, fondateur de **Coelus**. Je fabrique des sites, j’automatise ce qui peut l’être, j’héberge moi-même tout ce que je peux et je passe mon temps à **casser les algorithmes**. Ce que j’aime, c’est comprendre comment un outil marche, le tester, le casser, puis raconter ce que j’en ai retenu.
 
 ## 🧩 Coelus, c’est quoi ?
 
