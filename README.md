@@ -4,7 +4,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://coelus.fr"><img alt="coelus.fr" src="https://img.shields.io/badge/coelus.fr-8419B6?style=for-the-badge&logoColor=white"></a>
+  <a href="https://coelus.fr"><img alt="Coelus" src="assets/badge-coelus.svg" height="28"></a>
   <a href="https://www.linkedin.com/in/enzo-valvasori/"><img alt="LinkedIn Enzo" src="https://img.shields.io/badge/LinkedIn-Enzo_Valvasori-0A66C2?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/company/coelus-agency"><img alt="LinkedIn Coelus" src="https://img.shields.io/badge/LinkedIn-Coelus-0A66C2?style=for-the-badge"></a>
   <a href="https://x.com/EnzoVALVASORI"><img alt="X Enzo" src="https://img.shields.io/badge/X-@EnzoVALVASORI-000000?style=for-the-badge&logo=x&logoColor=white"></a>
@@ -13,11 +13,11 @@
 
 ## 👋 Un peu de moi
 
-Je suis Enzo, fondateur de **Coelus**. Je fabrique des sites, je fais monter des pages dans Google, j’automatise ce qui peut l’être et j’héberge moi-même tout ce que je peux. Ce que j’aime, c’est comprendre comment un outil marche, le tester, le casser, puis raconter ce que j’en ai retenu.
+Je suis Enzo, fondateur de **Coelus**. Je fabrique des sites, j’automatise ce qui peut l’être, j’héberge moi-même tout ce que je peux et je passe mon temps à **casser les algorithmes** pour faire monter les pages dans Google. Ce que j’aime, c’est comprendre comment un outil marche, le tester, le casser, puis raconter ce que j’en ai retenu.
 
 ## 🧩 Coelus, c’est quoi ?
 
-Une agence web et un collectif de freelances, entre Montpellier et le remote. L’idée est simple. **Un seul interlocuteur pour tout ce qui fait vivre un projet en ligne**, du site à la visibilité, sans courir après dix prestataires.
+Une agence web et un collectif de freelances à **Montpellier, Nîmes et Bagnols-sur-Cèze**, qui travaille aussi en remote. L’idée est simple. **Un seul interlocuteur pour tout ce qui fait vivre un projet en ligne**, du site à la visibilité, sans courir après dix prestataires.
 
 <table>
   <tr>
